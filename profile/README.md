@@ -24,3 +24,6 @@ Join us on CloudXaaS, and let's work together to create a bulletproof framework 
 Though mainly in the language of golang, c, rust, c++ and javascript, our coding repository is not limited to programming language.
 
 Anything that is mission critical for use in aerospace military software can be used here as well.
+We strive to meet such high and strigent standard but we will accept what works for now.
+
+version 1.0 will be the highest grade. currently, all development work will be in version 0.0.1
