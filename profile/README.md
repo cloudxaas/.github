@@ -22,3 +22,5 @@ Anything that is mission critical for use in aerospace military software can be 
 We strive to meet such high and strigent standard but we will accept what works for now.
 
 version 1.0 will be the highest grade. currently, all development work will be in version 0.0.1
+
+Most works are developed in whatever language, primarily golang, to be converted to c / rust in future.
