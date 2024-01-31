@@ -1,6 +1,6 @@
-🌈 Contribution guidelines - Pay It Forward 3X for anything you gotten useful!
+Contribution guidelines - Just Pay It Forward 3X for anything you gotten useful.
 
-🧙 🍿 👩‍💻 Useful resources - Read our philosophy repo.
+Useful resources - Read our philosophy repo.
 
 
 ## Mission Statement
