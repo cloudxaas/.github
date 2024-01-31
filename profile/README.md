@@ -5,22 +5,16 @@
 
 ## Mission Statement
 
+Our aim is to develop a reliable framework for programming in aerospace military-grade software and artificial intelligence, aspiring to reach a high standard in coding excellence and code security. We are aware of the significance of this endeavor for the aerospace industry and the global community, and we are dedicated to contributing effectively towards this goal.
 
-🙋‍ Our mission is to create a bulletproof framework for programming in aerospace military grade software and for artificial intelligence that sets the standard for coding excellence and highest security in code. We recognize that this is a critical need for the aerospace industry, and the world as a whole, and we are committed to doing everything in our power to make it a reality.
+In pursuing our mission, we invite skilled programmers to collaborate with us in shaping this framework. We acknowledge the challenges involved in this task, yet we are optimistic that with a dedicated team, we can positively impact the safety and security of our sector.
 
-To achieve this mission, we are calling on the world's best programmer to join our team and lend their expertise to the creation of this framework. We understand that this is a tall order, but we believe that with the right team, we can make a real difference in the safety and security of our industry.
+Our commitment is to ensure that each line of code in our framework adheres to stringent standards of quality, crafted with meticulous care and precision. We are conscious of the potential risks associated with any errors, which drives our dedication to achieve the highest levels of code security and robustness.
 
-We are committed to ensuring that every line of code in our framework meets the highest standards of excellence, and is designed with the utmost care and attention to detail. We know that the stakes are high, and that any mistake could have serious consequences, which is why we are committed to doing everything in our power to ensure that our code is as secure and bulletproof as possible.
+We are motivated by the belief that this mission is critical and cannot be overlooked. We feel a sense of duty to leverage our skills and resources to build a framework that safeguards our industry and the world. We encourage the world's most talented programmers to join us in this important mission, contributing their skills and knowledge towards a framework that will significantly enhance the safety and security of our field.
 
-We believe that this mission is too important to ignore, and that we have a responsibility to use our expertise and resources to create a framework that will protect our industry and our world. We are calling on the world's best programmer to join us in this mission, and to lend their talent and expertise to the creation of a framework that will make a real difference in the safety and security of our industry.
+We invite you to join us at CloudXaaS, working collaboratively to create a robust framework for aerospace military-grade software programming and artificial intelligence, aspiring to set benchmarks in coding quality and security.
 
-Join us on CloudXaaS, and let's work together to create a bulletproof framework for programming in aerospace military grade software and for artificial intelligence that sets the standard for coding excellence and highest security in code.
+Our code repository is primarily focused on languages like Golang, C, Rust, C++, and JavaScript, but we are open to utilizing any programming language that is critical for aerospace military software applications. We aim to achieve stringent standards, yet we are pragmatic in accepting effective solutions for the present.
 
-Though mainly in the language of golang, c, rust, c++ and javascript, our coding repository is not limited to programming language.
-
-Anything that is mission critical for use in aerospace military software can be used here as well.
-We strive to meet such high and strigent standard but we will accept what works for now.
-
-version 1.0 will be the highest grade. currently, all development work will be in version 0.0.1
-
-Most works are developed in whatever language, primarily golang, to be converted to c / rust in future.
+The ultimate goal is to reach version 1.0, representing the highest grade of our development. Currently, we are working on version 0.0.1. Most of our work is initially developed in languages such as Golang, with plans to convert them to C or Rust in the future.
