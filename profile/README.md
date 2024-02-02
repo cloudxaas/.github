@@ -18,3 +18,6 @@ We invite you to join us at CloudXaaS, working collaboratively to create a robus
 Our code repository is primarily focused on languages like Golang, C, Rust, C++, and JavaScript, but we are open to utilizing any programming language that is critical for aerospace military software applications. We aim to achieve stringent standards, yet we are pragmatic in accepting effective solutions for the present.
 
 The ultimate goal is to reach version 1.0, representing the highest grade of our development. Currently, we are working on version 0.0.1. Most of our work is initially developed in languages such as Golang, with plans to convert them to C or Rust in the future.
+
+## Case Studies
+CloudXaaS modules has been deployed and battle tested in performance and mission critical systems with > 1000 million requests monthly.
