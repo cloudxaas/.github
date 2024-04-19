@@ -20,4 +20,4 @@ Our code repository is primarily focused on languages like Golang, C, Rust, C++,
 The ultimate goal is to reach version 1.0, representing the highest grade of our development. Currently, we are working on version 0.0.1. Most of our work is initially developed in languages such as Golang, with plans to convert them to C or Rust in the future.
 
 ## Case Studies
-CloudXaaS modules has been deployed and battle tested in performance and mission critical systems with > 1000 million requests monthly.
+Some CloudXaaS modules has been deployed and battle tested in performance and mission critical systems with > 100 million requests monthly.
