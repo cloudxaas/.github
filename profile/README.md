@@ -21,3 +21,8 @@ The ultimate goal is to reach version 1.0, representing the highest grade of our
 
 ## Case Studies
 Some CloudXaaS modules has been deployed and battle tested in performance and mission critical systems with > 100 million requests monthly.
+
+## Design Priorities (in order of importance)
+- Security, Safety & Reliability
+- Performance
+- Maintainability & Extensibility
